@@ -1,10 +1,10 @@
 # boomTownApi
 This code is the result of a coding exersize to contact the GitHub API for BoomTown! and perform various tasks.
 
-## How to Run
-Make sure you have .NET installed on your computer by typing `dotnet` into your command line.
-
-To run simply type `dotnet run` in the folder than houses the program.cs.
+## How to Run  
+1. Download the code and change your working directory to the file you have downloaded.
+2. Make sure you have .NET installed on your computer by typing `dotnet` into your command line.
+3. To run type `dotnet run` in the folder than houses the program.cs.
 
 ## The Prompt
 Using the GitHub API and an object-oriented language of choice (preferably C#), pull top-level details for the BoomTownROI organization at:
